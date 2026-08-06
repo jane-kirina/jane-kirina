@@ -2,7 +2,7 @@
 
 ##  👀 About me
 
-- 💻 *Computer Vision / ML Engineer focused on building end-to-end machine learning systems — from data preparation and modeling to evaluation, APIs, and deployable demos*
+- 💻 *ML Engineer / Computer Vision focused on building end-to-end machine learning systems — from data preparation and modeling to evaluation, APIs, and deployable demos*
 - 🎯 Open to junior and internship opportunities in Machine Learning, Computer Vision, and Applied AI
 ### What I work on  
 - Real-time computer vision systems  
@@ -38,5 +38,5 @@
 
 ---
 ## Contact  
-- [LinkedIn](https://www.linkedin.com/in/evgeniya-kirina-786957208/)
+- [LinkedIn](https://www.linkedin.com/in/jane-kirina/)
 - *Email*: jane.kirina.dev@gmail.com
