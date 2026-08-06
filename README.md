@@ -39,4 +39,4 @@
 ---
 ## Contact  
 - [LinkedIn](https://www.linkedin.com/in/evgeniya-kirina-786957208/)
-- *Email*: evgeniya.kirina05@gmail.com
+- *Email*: jane.kirina.dev@gmail.com
