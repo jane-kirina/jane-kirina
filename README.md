@@ -2,7 +2,7 @@
 
 ##  👀 About me
 
-- 💻 *ML Engineer / Computer Vision focused on building end-to-end machine learning systems — from data preparation and modeling to evaluation, APIs, and deployable demos*
+- 💻 *ML / Data Engineer / Computer Vision focused on building end-to-end machine learning systems — from data preparation and modeling to evaluation, APIs, and deployable demos*
 - 🎯 Open to junior and internship opportunities in Machine Learning, Computer Vision, and Applied AI
 ### What I work on  
 - Real-time computer vision systems  
